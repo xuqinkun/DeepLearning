@@ -6,7 +6,7 @@ __pycache__/
 *$py.class
 *.zip
 *.txt
-d2ldl/data
+d2dl/data
 *.gz
 # C extensions
 *.so
